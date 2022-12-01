@@ -1,0 +1,19 @@
+#content{
+	width: 888px;
+}
+#imageright{
+
+}
+#imageleft{
+	margin-right: 40px;
+}
+.kepszoveg{
+text-align: center;
+font-weight: bold;
+font-style: italic;
+}
+
+h1,h2{
+color:forestgreen
+
+}
